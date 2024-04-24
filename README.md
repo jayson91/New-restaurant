@@ -5,7 +5,7 @@ This project highlights my expertise in Python and Tableau, employing NumPy, Pan
 ---
 
 ## Objectives
-It will help new restaurants in deciding their theme, menus, cuisine, cost etc for a particular location. It also aims at finding similarity between neighborhoods of Bengaluru on the basis of food. The dataset also contains reviews for each of the restaurant which will help in finding overall rating for the place.
+It will help new restaurants in deciding their theme, menus, cuisine, cost etc for a particular location. 
 
 ## Data
 
