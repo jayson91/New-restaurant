@@ -1,5 +1,7 @@
 # New-restaurant
 CareerFoundry Project: Demonstrating Proficiency in Predicting Modeling
+
+
 This project highlights my expertise in Python and Tableau, employing NumPy, Pandas and Skitlearn for comprehensive data analysis and effective data management. The dataset, sourced from CareerFoundry, revolves around the Zomato dataset taken from Kaggle.
 
 ---
